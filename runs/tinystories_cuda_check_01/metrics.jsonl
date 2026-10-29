@@ -1,0 +1,5 @@
+{"event": "start", "step": 0, "resumed": false, "valid_loss": 9.233877182006836, "elapsed_seconds": 0.346147199976258}
+{"event": "train", "step": 1, "update_index": 0, "lr": 0.0, "train_loss": 9.207350730895996, "elapsed_seconds": 0.4937964000273496}
+{"event": "train", "step": 2, "update_index": 1, "lr": 0.001, "train_loss": 9.24423599243164, "elapsed_seconds": 0.5312671000137925}
+{"event": "validation", "step": 2, "valid_loss": 8.856239318847656, "elapsed_seconds": 0.5421351999975741}
+{"event": "checkpoint", "step": 2, "path": "runs\\tinystories_cuda_check_01\\last.pt", "elapsed_seconds": 0.7920193000463769}

@@ -1,0 +1,13 @@
+{"event": "start", "step": 0, "resumed": false, "valid_loss": 9.222813129425049, "elapsed_seconds": 0.06656770000699908}
+{"event": "train", "step": 1, "update_index": 0, "lr": 0.0, "train_loss": 9.200374603271484, "elapsed_seconds": 0.12579249998088926}
+{"event": "train", "step": 5, "update_index": 4, "lr": 0.0008, "train_loss": 9.227229118347168, "elapsed_seconds": 0.20636840001679957}
+{"event": "train", "step": 10, "update_index": 9, "lr": 0.0008511087728614862, "train_loss": 9.207924842834473, "elapsed_seconds": 0.3037414000136778}
+{"event": "validation", "step": 10, "valid_loss": 9.202744960784912, "elapsed_seconds": 0.3149834999348968}
+{"event": "train", "step": 15, "update_index": 14, "lr": 0.0004109423525312737, "train_loss": 9.17348861694336, "elapsed_seconds": 0.40988409996498376}
+{"event": "train", "step": 20, "update_index": 19, "lr": 0.00010983357966978745, "train_loss": 9.188721656799316, "elapsed_seconds": 0.5005923999706283}
+{"event": "validation", "step": 20, "valid_loss": 9.187957286834717, "elapsed_seconds": 0.5107386999297887}
+{"event": "checkpoint", "step": 20, "path": "runs\\tinystories_smoke_01\\last.pt", "elapsed_seconds": 0.5401831000344828}
+{"event": "start", "step": 20, "resumed": true, "valid_loss": 9.187957286834717, "elapsed_seconds": 0.05806399998255074}
+{"event": "train", "step": 25, "update_index": 24, "lr": 0.0001, "train_loss": 9.135601997375488, "elapsed_seconds": 0.12986579991411418}
+{"event": "validation", "step": 25, "valid_loss": 9.18603515625, "elapsed_seconds": 0.13590440002735704}
+{"event": "checkpoint", "step": 25, "path": "runs\\tinystories_smoke_01\\last.pt", "elapsed_seconds": 0.14968799997586757}

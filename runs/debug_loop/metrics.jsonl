@@ -1,0 +1,19 @@
+{"event": "start", "step": 0, "resumed": false, "valid_loss": 2.569795274734497, "elapsed_seconds": 0.011661099968478084}
+{"event": "train", "step": 1, "update_index": 0, "lr": 0.0, "train_loss": 2.5861644744873047, "elapsed_seconds": 0.021836599975358695}
+{"event": "train", "step": 10, "update_index": 9, "lr": 0.000999065922910471, "train_loss": 1.183568000793457, "elapsed_seconds": 0.055574400001205504}
+{"event": "train", "step": 20, "update_index": 19, "lr": 0.0009886020386780925, "train_loss": 0.23251110315322876, "elapsed_seconds": 0.0996257999795489}
+{"event": "validation", "step": 25, "valid_loss": 0.10602157711982726, "elapsed_seconds": 0.11910660000285134}
+{"event": "train", "step": 30, "update_index": 29, "lr": 0.0009667785920309995, "train_loss": 0.055897314101457596, "elapsed_seconds": 0.13442869996652007}
+{"event": "train", "step": 40, "update_index": 39, "lr": 0.0009341607987740226, "train_loss": 0.038182031363248825, "elapsed_seconds": 0.16522349999286234}
+{"event": "train", "step": 50, "update_index": 49, "lr": 0.0008915934426191791, "train_loss": 0.0200251042842865, "elapsed_seconds": 0.19454990001395345}
+{"event": "validation", "step": 50, "valid_loss": 0.015056280419230461, "elapsed_seconds": 0.19933299999684095}
+{"event": "checkpoint", "step": 50, "path": "runs\\debug_loop\\last.pt", "elapsed_seconds": 0.21048259997041896}
+{"event": "start", "step": 50, "resumed": true, "valid_loss": 0.015056280419230461, "elapsed_seconds": 0.012575000000651926}
+{"event": "train", "step": 60, "update_index": 59, "lr": 0.0008401789957312767, "train_loss": 0.013121119700372219, "elapsed_seconds": 0.045670999970752746}
+{"event": "train", "step": 70, "update_index": 69, "lr": 0.0007812490652779459, "train_loss": 0.007235440891236067, "elapsed_seconds": 0.07607770001050085}
+{"event": "validation", "step": 75, "valid_loss": 0.007802624348551035, "elapsed_seconds": 0.09579769999254495}
+{"event": "train", "step": 80, "update_index": 79, "lr": 0.00071632990550346, "train_loss": 0.006997366435825825, "elapsed_seconds": 0.12806139996973798}
+{"event": "train", "step": 90, "update_index": 89, "lr": 0.0006471028885455129, "train_loss": 0.006555402651429176, "elapsed_seconds": 0.1613076999783516}
+{"event": "train", "step": 100, "update_index": 99, "lr": 0.0005753609577800368, "train_loss": 0.0065682027488946915, "elapsed_seconds": 0.2013615999603644}
+{"event": "validation", "step": 100, "valid_loss": 0.005971504840999842, "elapsed_seconds": 0.20630359998904169}
+{"event": "checkpoint", "step": 100, "path": "runs\\debug_loop\\last.pt", "elapsed_seconds": 0.20890279999002814}
